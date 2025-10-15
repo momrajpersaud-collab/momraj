@@ -1,0 +1,12 @@
+{
+  "name": "momraj-chat-app",
+  "version": "1.0.0",
+  "description": "Momraj Chat App - a personal fork of a simple chat application.",
+  "author": "Momraj",
+  "license": "MIT",
+  "private": false,
+  "scripts": {},
+  "dependencies": {
+    "react-scroll-to-bottom": "^4.2.0"
+  }
+}
